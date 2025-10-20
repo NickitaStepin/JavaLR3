@@ -1,0 +1,2 @@
+Updated name from 'Петр' to 'Пётр'
+Current info: Name: Пётр, Student ID: 2001
