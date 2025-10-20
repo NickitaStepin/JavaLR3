@@ -1,0 +1,4 @@
+Name: Никита, Student ID: 1001
+Name: Эдик, Student ID: 1002
+Name: Анна, Student ID: 1003
+Name: Иван, Student ID: 1004
